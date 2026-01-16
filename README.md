@@ -1,9 +1,8 @@
 # Step-By-Step-Instructions
 Step by Step Recipe for Creating a New Working Project Environment
 
-1. Fork the Repository
-- Click "Fork"
-- Click "Create Fork"
+1. Create a Repository
+- Go to GitHub, click on Repositories, click new, and name your repository 
 
 2. Open it as a Codespace
 - Click "Code"
