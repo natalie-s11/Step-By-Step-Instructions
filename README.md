@@ -25,13 +25,17 @@ Step by Step Recipe for Creating a New Working Project Environment
 - Then, when new packages are added, install them first: pip install <package>
 - Update the requirements file to reflect the current environment: pip freeze > requirements.txt
 
-6. Push all changes to GitHub
+6. PEP 8 Guidelines
+- pip install autopep8
+- autopep8 --in-place --aggressive your_file.py
+
+7. Push all changes to GitHub
 - In the terminal type: git status
 - Then: git add .
 - Then: git commit -m "Update environment, requirements, and project files"
 - Then: git push origin main
 
-7. Refresh your GitHub repository to see the changes
+8. Refresh your GitHub repository to see the changes
 
 
   
